@@ -5,10 +5,6 @@
 <head>
 
 
-<title>
-
-This is the title 
-</title>
 </head>
      <style type="text/css">
 	        p {color:red;font-family:arial;}
@@ -31,12 +27,12 @@ This is the title
 <a href="#knowledge" title="Best Section">Knowledge Section</a>
 
 <h1>
-Schooling isnt the same as education!
+Anamita Anuva
 </h1>
-<h2>Education is constant learning</h2>
+<h2>enter an inspirational quote</h2>
 <hr />
 
-<p>Dont mix <strong>schooling</strong> with <strong>learning</strong>. School sets you up for a lifelong journey of self learning..</p>
+<p>In myself, I see a passion for finance, economics, technology and development. Having various working experience as a student and working professional, I am a consistent collaraborator and always challenge myself to develop to my full potential and beyond. </p>
 
 In fact, it is when schooling ends is when true learning starts because you meet <em>experience</em>.<br />Think of a cocoon leaving its nest because it has grown into a butterfly
 
