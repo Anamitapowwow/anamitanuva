@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 
 <html>
@@ -20,7 +20,6 @@ This is the title
 			p4 {line-height:150%;}
 			p1 {text-indent:25px;}
 			body
-			{background-color:#CCE5FF;
 			{background-image:url(Mypicture.jpg);
 			{background-repeat:no-repeat;
 		    {background-position: 10px 60px}
