@@ -7,8 +7,8 @@
 
 </head>
      <style type="text/css">
-	        p {color:red;font-family:arial;}
-			h1 {color:#AC4D4D;text-align:center;
+	        p {color:#4682B4;font-family:arial;}
+			h1 {color:black;text-align:center;
 			    padding:20px;}
 			h2 {text-align:center;}
 			h3 {background-color:yellow;
