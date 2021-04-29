@@ -31,7 +31,9 @@ Anamita Anuva
 <h2>enter an inspirational quote</h2>
 <hr />
 
-<p> In myself, I see a passion for finance, economics, technology and development and creativity. Having various working experiences as a student and professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
+<p> In myself, I see a passion for finance, economics, technology, development, and creativity. Having various working experiences as a student and professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond.
+
+<p> Avid traveller. Explorer. Paintings and Desigining. Love trying out new food but never good with experimenting. </p>
 
 <p> I received my bachelors of Science in Economics from Arizona State University in 2019. Being born and raised in Bangladesh, Economics as a topic interested me as I liked the real world implications of the various concepts and policies taught at my home school. Studying and working in the States made me realize the importance of technology in todays day and age. Hence, having a certification in Business Analytics, I am continuing my journey in learning the basics of programming and strengthening my skills in data visualization applications. </p>
 
@@ -40,6 +42,7 @@ Anamita Anuva
 <!-- <a> for link -->
 <a href="#Education" title="Education Section">Education</a>
 <a href="#Work Experience" title="Education Section">Work Experience</a>
+<a href="#Extra Curricular Activities" title="EC Section">Extra Curricular Activities</a>
  
  
  <h3><a name="Education"></a>Education</h3>
@@ -49,7 +52,14 @@ Anamita Anuva
  Deans List 2016-17</p>
  
  <h3><a name="Work Experience"></a>Work Experience</h3>
-  <h4> Analyst </h4>
+ <h4> Analyst, Goldman Sachs and Co. </h4>
+ <p>Worked with a team of highly motivated individuals in the operations division in order to optimize equity allocation, manage risks and liquidity of the firm by communicating with different teams and various exchanges globally. In order to reduce time to increase worker capacity, I created macro using VBA in MS Excel to automate manual functions. It is here where I became confident about my decision of learning programming and attended data school provided by the firm to further learn applications. Additionally, I have trained new joiners with the firms best practices. </p>
+ 
+ <h4>Equipment Finance Intern, Bank of the West </h4>
+ <p>Provided support to Assistant Vice Presidents, Specialists, and Collectors to reduce delinquency risks and clean up portfolio. Additionally, I created employee productivity indicators to identify and improve employee productivity </p>
+ 
+ <h4>Micro-Enterprise</h4>
+ 
 
 <a href="mailto:anamitaanuva14@gmail.com">Email Anamita</a> <br />
 
