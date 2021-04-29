@@ -7,8 +7,8 @@
 
 </head>
      <style type="text/css">
-	                p.intro {color:#4682B4;font-family:arial;}
-			h1 {color:black;text-align:center;
+	                p. {font-family:arial;}
+			h1 {color:#4682B4;text-align:center;
 			    padding:20px;}
 			h2 {text-align:center;}
 			h3 {background-color:yellow;
@@ -31,23 +31,24 @@ Anamita Anuva
 <h2>enter an inspirational quote</h2>
 <hr />
 
-<p class="intro">In myself, I see a passion for finance, economics, technology and development and creativity. Having various working experiences as a student and working professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
+<p >In myself, I see a passion for finance, economics, technology and development and creativity. Having various working experiences as a student and professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
 
-<p> Born and raised in Bangladesh, I came to the United States to major in Economics in Arizona State University. Having a strong knack of problem solving, I liked the real world implications of various concepts and policies taught in my high school, Bangladesh International Tutorial. Studying and working in the States made me realize the importance of technology in todays day and age. Hence, having a certification in Business Analytics, I am continuing my journey in learning the basics of programming and strengthening my skills in data visualization applications. </p>
+<p> I received my bachelors of Science in Economics from Arizona State University in 2019. Being born and raised in Bangladesh, Economics as a topic interested me as I liked the real world implications of the various concepts and policies taught at my home school. Studying and working in the States made me realize the importance of technology in todays day and age. Hence, having a certification in Business Analytics, I am continuing my journey in learning the basics of programming and strengthening my skills in data visualization applications. </p>
 
 
 
 <!-- <a> for link -->
+<a href="#Education" title="Education Section">Education</a>
 
  <a href="http://google.com"> Link to google </a> <br />
  <a href="http://google.com" title="Awesome Search Engine"> Link to google </a> <br />
  
  <a href="Second.html"> Link to second page </a>
  
- <p> hello my name is anamita and this is my first web page that I am creating and blablabla and bhala bhsuu aldidk bdhed bejbd bdjebd njdbd bdhs qiwj <br /> <br /> <br /> <br /><br />Hello my name is ansajbs akbkdnc <br /> <br /> <br /> nasjendwbnd qnjwdbnqwend qndiebdw nwibedwf wbehbdwbc <br /> <br /> <br /><br />ndwibeihbfcihwbhbc bbdbdbdbddddd dndbdbdbdbdb dbdbsiwiwiw dbqq nkeoooooooo <br /> <br /> <br /> bsjdhhhh poooiinttt hdgdyyyeee ndhhhhhhh lopppopp ggggddddd ossjdndndn <br /> <br /> <br />whbehcbeihrbfhiebfceficb nehirbfchebfihbe eyttteeennget hhhh hhhhh wsdcwdcejncecn inwiebf ijwniehbfniherbfc </p>
  
- <h3><a name="knowledge"></a>Constant Learning is how you achieve knowledge</h3>
- <p>Knowledge and experience-both are needed to have a self aware life. <br /> <br /> <br /> hbchecbeihbfcejfcbnerffefrefcbnerhjk </p>
+ <h3><a name="Education"></a></h3>
+ <p> <strong>Economics</strong>, Bachelors of Science, Arizona State University, December 2019 </p>
+ Certification in Business Data Analytics, December 2019
 
 <a href="mailto:anamitaanuva14@gmail.com">Email Anamita</a> <br />
 
