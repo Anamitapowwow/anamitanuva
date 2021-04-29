@@ -7,7 +7,7 @@
 
 </head>
      <style type="text/css">
-	        p {color:#4682B4;font-family:arial;}
+	                p.intro {color:#4682B4;font-family:arial;}
 			h1 {color:black;text-align:center;
 			    padding:20px;}
 			h2 {text-align:center;}
@@ -32,7 +32,7 @@ Anamita Anuva
 <h2>enter an inspirational quote</h2>
 <hr />
 
-<p>In myself, I see a passion for finance, economics, technology and development. Having various working experiences as a student and working professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
+<p class="intro">In myself, I see a passion for finance, economics, technology and development. Having various working experiences as a student and working professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
 
 
 <!-- <a> for link -->
