@@ -41,7 +41,7 @@ Anamita Anuva
 <a href="#Education" title="Education Section">Education</a>
  
  
- <h3><a name="Education"></a></h3>
+ <h3><a name="Education"></a>Education</h3>
  <p> <strong>Economics</strong>, Bachelors of Science, Arizona State University, December 2019 </p>
  Certification in Business Data Analytics, December 2019
 
