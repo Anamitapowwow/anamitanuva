@@ -43,13 +43,13 @@ Anamita Anuva
  
  
  <h3><a name="Education"></a>Education</h3>
- <p> <strong>Economics, Bachelors of Science, Arizona State University</strong> 
- Certification in Business Data Analytics, 
- December 2019
+ <p> <strong>Economics, Bachelors of Science, Arizona State University</strong> </br>
+ Certification in Business Data Analytics, </br>
+ December 2019 </br>
  Deans List 2016-17</p>
  
- <h4><a name="Work Experience"></a>Work Experience</h4>
-  <h5> Analyst </h5>
+ <h3><a name="Work Experience"></a>Work Experience</h3>
+  <h4> Analyst </h4>
 
 <a href="mailto:anamitaanuva14@gmail.com">Email Anamita</a> <br />
 
