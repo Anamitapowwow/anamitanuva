@@ -31,7 +31,7 @@ Anamita Anuva
 <h2>enter an inspirational quote</h2>
 <hr />
 
-<p >In myself, I see a passion for finance, economics, technology and development and creativity. Having various working experiences as a student and professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
+<p> In myself, I see a passion for finance, economics, technology and development and creativity. Having various working experiences as a student and professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
 
 <p> I received my bachelors of Science in Economics from Arizona State University in 2019. Being born and raised in Bangladesh, Economics as a topic interested me as I liked the real world implications of the various concepts and policies taught at my home school. Studying and working in the States made me realize the importance of technology in todays day and age. Hence, having a certification in Business Analytics, I am continuing my journey in learning the basics of programming and strengthening my skills in data visualization applications. </p>
 
@@ -39,11 +39,17 @@ Anamita Anuva
 
 <!-- <a> for link -->
 <a href="#Education" title="Education Section">Education</a>
+<a href="#Work Experience" title="Education Section">Work Experience</a>
  
  
  <h3><a name="Education"></a>Education</h3>
- <p> <strong>Economics</strong>, Bachelors of Science, Arizona State University, December 2019 </p>
- Certification in Business Data Analytics, December 2019
+ <p> <strong>Economics, Bachelors of Science, Arizona State University</strong> 
+ Certification in Business Data Analytics, 
+ December 2019
+ Deans List 2016-17</p>
+ 
+ <h4><a name="Work Experience"></a>Work Experience</h4>
+  <h5> Analyst </h5>
 
 <a href="mailto:anamitaanuva14@gmail.com">Email Anamita</a> <br />
 
