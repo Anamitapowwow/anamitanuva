@@ -53,12 +53,15 @@ Anamita Anuva
  
  <h3><a name="Work Experience"></a>Work Experience</h3>
  <h4> Analyst, Goldman Sachs and Co. </h4>
- <p>Worked with a team of highly motivated individuals in the operations division in order to optimize equity allocation, manage risks and liquidity of the firm by communicating with different teams and various exchanges globally. In order to reduce time to increase worker capacity, I created macro using VBA in MS Excel to automate manual functions. It is here where I became confident about my decision of learning programming and attended data school provided by the firm to further learn applications. Additionally, I have trained new joiners with the firms best practices. </p>
+ <p>Worked with a team of highly motivated individuals in the operations division in order to optimize equity allocation, manage risks and liquidity of the firm by communicating with different teams and various exchanges globally. In order to reduce time to increase worker capacity, I created macro using VBA in MS Excel to automate manual functions. It is here where I became confident about my decision of learning programming and attended data school provided by the firm to further learn applications. Additionally, I have trained new joiners with the firms best practices.These strengthened my team work, leadership, problem-solving, time management and technical skills. </p>
  
  <h4>Equipment Finance Intern, Bank of the West </h4>
- <p>Provided support to Assistant Vice Presidents, Specialists, and Collectors to reduce delinquency risks and clean up portfolio. Additionally, I created employee productivity indicators to identify and improve employee productivity </p>
+ <p>Provided support to Assistant Vice Presidents, Specialists, and Collectors to reduce delinquency and clean up portfolio. Additionally, I created employee productivity indicators to identify and improve employee productivity. </p>
  
- <h4>Micro-Enterprise</h4>
+ <h4>Micro-Enterprise Development Intern, International Rescue Committee</h4>
+ <p> Helped clients to starting their own businesses through marketing and business sector research. I reached out to various donors and partnered with various banks, as
+well as Arizona State University departments, to further strengthen the relationship of IRC with the organizations. These experiences helped me to develop my data analysis, communication, organizational and leadership skills.</p>
+
  
 
 <a href="mailto:anamitaanuva14@gmail.com">Email Anamita</a> <br />
