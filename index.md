@@ -24,7 +24,6 @@
 	 </style>
 <body>
 
-<a href="#knowledge" title="Best Section">Knowledge Section</a>
 
 <h1>
 Anamita Anuva
@@ -32,7 +31,10 @@ Anamita Anuva
 <h2>enter an inspirational quote</h2>
 <hr />
 
-<p class="intro">In myself, I see a passion for finance, economics, technology and development. Having various working experiences as a student and working professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
+<p class="intro">In myself, I see a passion for finance, economics, technology and development and creativity. Having various working experiences as a student and working professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond. </p>
+
+<p> Born and raised in Bangladesh, I came to the United States to major in Economics in Arizona State University. Having a strong knack of problem solving, I liked the real world implications of various concepts and policies taught in my high school, Bangladesh International Tutorial. Studying and working in the States made me realize the importance of technology in todays day and age. Hence, having a certification in Business Analytics, I am continuing my journey in learning the basics of programming and strengthening my skills in data visualization applications. </p>
+
 
 
 <!-- <a> for link -->
