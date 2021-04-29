@@ -39,11 +39,6 @@ Anamita Anuva
 
 <!-- <a> for link -->
 <a href="#Education" title="Education Section">Education</a>
-
- <a href="http://google.com"> Link to google </a> <br />
- <a href="http://google.com" title="Awesome Search Engine"> Link to google </a> <br />
- 
- <a href="Second.html"> Link to second page </a>
  
  
  <h3><a name="Education"></a></h3>
@@ -54,7 +49,7 @@ Anamita Anuva
 
 <a href="http://thenewboston.com"><img src="Mypicture.jpg" height="150" /></a>
 <br />
-<h3> Movie stars I love!    </h3>
+
 
 <table border="1" cellpadding="10">
     <tr>
