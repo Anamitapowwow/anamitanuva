@@ -31,9 +31,9 @@ Anamita Anuva
 <h2>enter an inspirational quote</h2>
 <hr />
 
-<p> In myself, I see a passion for finance, economics, technology, development, and creativity. Having various working experiences as a student and professional, I am a consistent collaborator and always aspire to challenge myself to develop to my full potential and beyond.
+<p> In myself, I see a passion for finance, economics, technology, development, and creativity. Having various working experiences as a student and professional, I aspire to challenge myself to develop at my full potential.
 
-<p> Avid traveller. Explorer. Paintings and Desigining. Love trying out new food but never good with experimenting. </p>
+<p> Avid traveller. Explorer. Painting and Desigining. Love trying out new food but never good with experimenting. </p>
 
 <p> I received my bachelors of Science in Economics from Arizona State University in 2019. Being born and raised in Bangladesh, Economics as a topic interested me as I liked the real world implications of the various concepts and policies taught at my home school. Studying and working in the States made me realize the importance of technology in todays day and age. Hence, having a certification in Business Analytics, I am continuing my journey in learning the basics of programming and strengthening my skills in data visualization applications. </p>
 
@@ -59,7 +59,7 @@ Anamita Anuva
  <p>Provided support to Assistant Vice Presidents, Specialists, and Collectors to reduce delinquency and clean up portfolio. Additionally, I created employee productivity indicators to identify and improve employee productivity. </p>
  
  <h4>Micro-Enterprise Development Intern, International Rescue Committee</h4>
- <p> Helped clients to starting their own businesses through marketing and business sector research. I reached out to various donors and partnered with various banks, as
+ <p> Helped clients to start their own businesses through marketing and business sector research. I reached out to various donors and partnered with various banks, as
 well as Arizona State University departments, to further strengthen the relationship of IRC with the organizations. These experiences helped me to develop my data analysis, communication, organizational and leadership skills.</p>
 
  
